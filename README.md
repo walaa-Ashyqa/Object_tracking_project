@@ -37,4 +37,4 @@ This application tracks moving objects in a video using OpenCV and Streamlit. It
    streamlit run app.py
    ```
 2. This App deployed on streamlit cloud.
-3. Upload a video file and see the object tracking in action. [Here](https://objecttrackingprojectroute.streamlit.app/)
+3. Upload a video file and see the object tracking in action. [Here](https://objecttrackingproject-kstdyk8i2kggsbqhx7a7bw.streamlit.app/)
