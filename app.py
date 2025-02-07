@@ -55,7 +55,7 @@ if uploaded_file is not None:
                     cv2.rectangle(frame, (x, y), (x + width, y + height), (0, 255, 0), 2) # green rectangle
             
             stframe.image(ConvertColor(frame), channels="RGB") # Display the video frame
-            time.sleep(0.003) # add delay to simulate the video frame rate
+            time.sleep(0.0003) # add delay to simulate the video frame rate
             
         captures.release()
         
